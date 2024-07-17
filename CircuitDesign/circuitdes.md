@@ -1,1 +1,4 @@
-# Circuit Design
+# Circuit Design Projects
+
+- Coilgun
+- Marx Generator
