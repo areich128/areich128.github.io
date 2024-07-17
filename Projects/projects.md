@@ -9,13 +9,13 @@ The main purpose of this project is to focus on the avionics, and to make it as 
 ### Altamira Design
 To fulfill these requirements, I designed a 3" diameter low-powered rocket. The fins, nosecone, and AV bay are custom designed to be 3D printed. Design was informed by calculations done in OpenRocket
 
-![AltamiraOpenRocketDesign](AltamiraORK.png)
+![AltamiraOpenRocketDesign](https://areich128.github.io/AltamiraORK.png)
 *Altamira OpenRocket Design*
 
-![AltamiraFlightSim](AltamiraFlightSim.png)
+![AltamiraFlightSim](https://areich128.github.io/AltamiraFlightSim.png)
 *Altamira Flight Simulation*
 
-![AltamiraOnShape](AltamiraOnShape.png)
+![AltamiraOnShape](https://areich128.github.io/AltamiraOnShape.png)
 *Altamira OnShape Assembly*
 
 
