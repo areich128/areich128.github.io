@@ -1,5 +1,6 @@
 # General Projects
 
+<!
 ## Altamira Rocket
 Over the 2024 summer, I took on this project as a way to prepare for my role as the CU SRL Avionics Lead.
 
@@ -18,7 +19,7 @@ To fulfill these requirements, I designed a 3" diameter low-powered rocket. The 
 ![AltamiraOnShape](https://areich128.github.io/AltamiraOnShape.png)
 *Altamira OnShape Assembly*
 
-Estes rockets only have a delay of either 4 or 6 seconds. Due to the weight of the necessary requirements, a 6 second delay from burnout to apogee is not possible with the motor I have chosen (F15). As such, weight will be added to the nosecone in order to decrease apogee to as close to 4 seconds after burnout as possible.
+Estes rockets only have a delay of either 4 or 6 seconds. Due to the weight of the necessary components, a 6 second delay from burnout to apogee is not possible with the motor I have chosen (F15). As such, weight will be added to the nosecone in order to decrease apogee to as close to 4 seconds after burnout as possible.
 - Delay needs to be timed correctly to avoid extreme load on the parachute/recovery system
 
 ### Avionics
@@ -30,6 +31,7 @@ The BMP driver is relatively simple. All it does is initialize the sensor, write
 The FPrime Ground Data System will then run locally on the BeagleBone in lieu of a downlink system. This will stream telemetry over port 50000, which will be picked up by a bash script and saved to an onboard SD card.
 
 **Launch Date: July 27** at Fiesta Island
+>
 
 ## Window Shutter
 
