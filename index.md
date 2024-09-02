@@ -27,9 +27,13 @@
 
 ## Bio <a name="bio"></a>
 
+<hr>
+
 Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
 
 ## Education <a name="edu"></a>
+
+<hr>
 
 University of Colorado, Boulder class of 2027
 
@@ -47,7 +51,7 @@ Responsible for organizing the creation of a full avionics system including upda
 
 ### Avionics Engineer, CU Sounding Rocket Lab
 
-Designed and implemented custom sensor drivers and employing low-level communications protocols using NASA's FPrime flight software framework.
+Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
 
 ### NASA SUITS Team Co-Lead (Team Cartographer)
 
@@ -75,7 +79,12 @@ Determined system dynamics and transfer equations, created PD controller and tun
 
 ### 5th Kibo RPC
 
-Created pathfinding algorithm to scan images throughout the Kibo ISS module while avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
+Created pathfinding algorithm to scan images throughout a simulated Kibo ISS module while avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
+
+<div>
+    <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" class="centered-image">
+</div>
+<br>
 
 ### Kalman Filter
 
@@ -114,7 +123,7 @@ Designed and implemented high voltage generator.
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%; text-align: center;">
         <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
-            <i class="fab fa-envelope fa-2x"></i>
+            <i class="fa fa-envelope fa-2x"></i>
         </a>
     </div>
     <div style="width: 30%; text-align: center;">
