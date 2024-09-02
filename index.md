@@ -1,7 +1,30 @@
 # Project Portfolio (WIP)
 
+<section class="header">
+    <div class="row">
+        <div class="three columns">
+            <a href="/"><img class="u-max-full-width" src='IMG_5012.PNG'></a>
+        </div>
+        <div class="nine columns main-description">
+            <h1>Alex Reich</h1>
+            <p>[placeholder text]</p>
+            <p></p>
+            <p>alre8317@colorado.edu</p>
+            <p>
+                <span onclick="window.open('https://www.linkedin.com/in/alex-reich-650683252')" style="cursor: pointer">
+                    <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                </span>
+
+                <span onclick="window.open('https://github.com/areich128')" style="cursor: pointer">
+                    <i class="fa fa-github" aria-hidden="true"></i>
+                </span>
+            </p>
+        </div>
+    </div>
+</section>
+
 | [**BIO**](#bio) | [**EDUCATION**](#education) | [**EXPERIENCE**](#experience) | [**PROJECTS**](#projects) | [**CONTACT**](#contact) |
-|-----------------|-----------------------------|-------------------------------|---------------------------|-------------------------|
+
 ## Bio <a name="bio"></a>
 
 Hi, I'm Alex. I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
