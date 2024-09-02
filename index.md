@@ -37,6 +37,8 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 ## Experience <a name="exp"></a>
 
+<hr>
+
 View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 
 ### Avionics Lead, CU Sounding Rocket Lab
@@ -51,7 +53,11 @@ Designed and implemented custom sensor drivers and employing low-level communica
 
 Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
 
+
+
 ## Projects <a name="proj"></a>
+
+<hr>
 
 ### Inverted Pendulum Simulation and Control
 
@@ -62,7 +68,8 @@ Determined system dynamics equations, created control architecture and algorithm
 Determined system dynamics and transfer equations, created PD controller and tuned gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo)
 
 <div>
-    <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" class="centered-image">
+    <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto;">
+    <img src="W_n.png" alt="Angle of deflection of 'rocket' when run with varying natural frequencies" style="width: 45%; height: auto;">
 </div>
 
 ### 5th Kibo RPC
@@ -85,6 +92,8 @@ Designed and implemented circuit to launch a small metal projectile using electr
 
 ### Marx Generator
 
+Designed and implemented high voltage generator.
+
 
 
 <!-- [General Engineering Projects](https://areich128.github.io/Projects/projects.html)
@@ -93,18 +102,19 @@ Designed and implemented circuit to launch a small metal projectile using electr
 
 [Circuit Design Projects](https://areich128.github.io/CircuitDesign/circuitdes.html) -->
 
-<hr>
 
 ## Contact <a name="contact"></a>
 
+<hr>
+
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%; text-align: center;">alre8317@colorado.edu</div>
+    <div style="width: 30%; text-align: left;">alre8317@colorado.edu</div>
     <div style="width: 30%; text-align: center;">
         <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
             <i class="fab fa-linkedin fa-2x"></i>
         </a>
     </div>
-    <div style="width: 30%; text-align: center;">
+    <div style="width: 30%; text-align: right;">
         <a href="https://github.com/areich128" target="_blank" class="social-icons">
             <i class="fab fa-github fa-2x"></i>
         </a>
