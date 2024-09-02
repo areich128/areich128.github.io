@@ -53,7 +53,7 @@ Designed and implemented custom sensor drivers and employing low-level communica
 
 Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
 
-
+<br>
 
 ## Projects <a name="proj"></a>
 
@@ -68,9 +68,10 @@ Determined system dynamics equations, created control architecture and algorithm
 Determined system dynamics and transfer equations, created PD controller and tuned gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo)
 
 <div>
-    <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto;">
-    <img src="W_n.png" alt="Angle of deflection of 'rocket' when run with varying natural frequencies" style="width: 45%; height: auto;">
+    <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
+    <img src="W_n.png" alt="Angle of deflection of 'rocket' when run with varying natural frequencies" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
+<br>
 
 ### 5th Kibo RPC
 
@@ -83,6 +84,7 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 <div>
     <img src="filteredAltitude.png" alt="Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance." class="centered-image">
 </div>
+<br>
 
 ### NASA Space Apps Hackathon (2023)
 
@@ -93,6 +95,8 @@ Designed and implemented circuit to launch a small metal projectile using electr
 ### Marx Generator
 
 Designed and implemented high voltage generator.
+
+<br>
 
 
 
@@ -108,13 +112,17 @@ Designed and implemented high voltage generator.
 <hr>
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%; text-align: left;">alre8317@colorado.edu</div>
+    <div style="width: 30%; text-align: center;">
+        <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
+            <i class="fab fa-envelope fa-2x"></i>
+        </a>
+    </div>
     <div style="width: 30%; text-align: center;">
         <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
             <i class="fab fa-linkedin fa-2x"></i>
         </a>
     </div>
-    <div style="width: 30%; text-align: right;">
+    <div style="width: 30%; text-align: center;">
         <a href="https://github.com/areich128" target="_blank" class="social-icons">
             <i class="fab fa-github fa-2x"></i>
         </a>
