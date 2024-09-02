@@ -27,7 +27,7 @@
 
 ## Bio <a name="bio"></a>
 
-Hi, I'm Alex. I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
+Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
 
 ## Education <a name="edu"></a>
 
@@ -39,9 +39,17 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 
-CU Sounding Rocket Lab (SRL) Avionics Lead
+### Avionics Lead, CU Sounding Rocket Lab
 
-NASA SUITS Team Co-Lead (Team Cartographer)
+Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
+
+### Avionics Engineer, CU Sounding Rocket Lab
+
+Designed and implemented custom sensor drivers and employing low-level communications protocols using NASA's FPrime flight software framework.
+
+### NASA SUITS Team Co-Lead (Team Cartographer)
+
+Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
 
 ## Projects <a name="proj"></a>
 
@@ -85,14 +93,20 @@ Designed and implemented circuit to launch a small metal projectile using electr
 
 [Circuit Design Projects](https://areich128.github.io/CircuitDesign/circuitdes.html) -->
 
+<hr>
+
 ## Contact <a name="contact"></a>
 
-<div>
-    <a> alre8317@colorado.edu </a>
-    <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
-        <i class="fab fa-linkedin fa-2x"></i>
-    </a>
-    <a href="https://github.com/areich128" target="_blank" class="social-icons">
-        <i class="fab fa-github fa-2x"></i>
-    </a>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 30%; text-align: center;">alre8317@colorado.edu</div>
+    <div style="width: 30%; text-align: center;">
+        <a href="https://www.linkedin.com/in/alex-reich-650683252/" target="_blank" class="social-icons">
+            <i class="fab fa-linkedin fa-2x"></i>
+        </a>
+    </div>
+    <div style="width: 30%; text-align: center;">
+        <a href="https://github.com/areich128" target="_blank" class="social-icons">
+            <i class="fab fa-github fa-2x"></i>
+        </a>
+    </div>
 </div>
