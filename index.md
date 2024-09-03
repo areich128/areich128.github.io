@@ -1,4 +1,4 @@
-# Project Portfolio (WIP)
+/* # Project Portfolio (WIP)
 
 <head>
     <meta charset="UTF-8">
@@ -23,13 +23,7 @@
     </style>
 </head>
 
-| [**BIO**](#bio) | [**EDUCATION**](#education) | [**EXPERIENCE**](#experience) | [**PROJECTS**](#projects) | [**CONTACT**](#contact) |
-
-## Bio <a name="bio"></a>
-
-<hr>
-
-Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
+| [**EDUCATION**](#education) | [**EXPERIENCE**](#experience) | [**PROJECTS**](#projects) | [**CONTACT**](#contact) |
 
 <br>
 
@@ -72,7 +66,7 @@ Coordinated the design and implementation of an augmented reality EVA assistance
 Determined system dynamics equations, created control architecture and algorithm, and tuned using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
 
 <div>
-    <video style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
+    <video autoplay style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
         <source src="pendulum_swingup.mp4" type="video/mp4">
     </video>
     <img src="MCMC10k_updownfinal.jpg" alt="Gains through tuning process with 10k iterations" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
