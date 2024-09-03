@@ -72,7 +72,7 @@ Coordinated the design and implementation of an augmented reality EVA assistance
 Determined system dynamics equations, created control architecture and algorithm, and tuned using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
 
 <div>
-    <video controls style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
+    <video style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
         <source src="pendulum_swingup.mp4" type="video/mp4">
     </video>
     <img src="MCMC10k_updownfinal.jpg" alt="Gains through tuning process with 10k iterations" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
@@ -91,7 +91,7 @@ Determined system dynamics and transfer equations, created PD controller and tun
 
 ### 5th Kibo RPC
 
-Created pathfinding algorithm to scan images throughout a simulated Kibo ISS module while avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
+Created pathfinding algorithm to guide the AstroBee robot through a simulated Kibo ISS module while scanning images, avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
 
 <div>
     <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
@@ -105,13 +105,14 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 <div>
     <img src="filteredAltitude.png" alt="Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance." class="centered-image">
 </div>
-<br>
 
-### NASA Space Apps Hackathon (2023)
+*Lag in filtered data was later fixed by increasing process noise variance.*
+
+<br>
 
 ### Coilgun
 
-Designed and implemented circuit to launch a small metal projectile using electromagnetic propulsion.
+Created circuit to launch a small metal projectile using electromagnetic propulsion.
 
 ### Marx Generator
 
