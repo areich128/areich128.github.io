@@ -53,15 +53,21 @@ View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 
 ### Avionics Lead, CU Sounding Rocket Lab
 
+*2024 - Present*
+
 Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
 
-### Avionics Engineer, CU Sounding Rocket Lab
+### Avionics Engineer, CU Sounding Rocket Lab 
+
+*2023-2024*
 
 Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
 
-### NASA SUITS Team Co-Lead (Team Cartographer)
+### NASA SUITS Team Co-Lead (Team Cartographer) 
 
-Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
+*2023-2024*
+
+Team was one of 11 teams nationwide selected to test at Johnson Space Center. Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
 
 <br>
 
@@ -69,7 +75,9 @@ Coordinated the design and implementation of an augmented reality EVA assistance
 
 <hr id="projects">
 
-### Inverted Pendulum Simulation and Control
+### Inverted Pendulum Simulation and Control 
+
+*2024*
 
 Determined system dynamics equations, created control architecture and algorithm, and tuned using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
 
@@ -79,9 +87,13 @@ Determined system dynamics equations, created control architecture and algorithm
     </video>
     <img src="MCMC10k_updownfinal.jpg" alt="Gains through tuning process with 10k iterations" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
+<i style="text-align: center;">Left: Video of pendulum swing-up stabilization. Right: Gain set as they are tuned over 10k iterations of te MCMC algorithm.</i>
+
 <br>
 
-### PD Controller for 1-DOF Thrust Vector Control
+### PD Controller for 1-DOF Thrust Vector Control 
+
+*2024*
 
 Determined system dynamics and transfer equations, created PD controller and tuned gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo).
 
@@ -89,18 +101,27 @@ Determined system dynamics and transfer equations, created PD controller and tun
     <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
     <img src="W_n.png" alt="Angle of deflection of 'rocket' when run with varying natural frequencies" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
+<i style="text-align: center;">Angle of deflection of 'rocket' when run with varying natural damping ratios and natural frequencies, respectively.</i>
+
 <br>
 
-### 5th Kibo RPC
+### 5th Kibo RPC 
+
+*2024*
 
 Created pathfinding algorithm to guide the AstroBee robot through a simulated Kibo ISS module while scanning images, avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
 
 <div>
     <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
+
+<i style="text-align: center;">AstroBee robot traversing simulated ISS module.</i>
+
 <br>
 
-### Kalman Filter
+### Kalman Filter 
+
+*2024*
 
 Created univariate Kalman filter algorithm based off [this](https://www.kalmanfilter.net/alphabeta.html) tutorial. Applied it to altitude readings made by the BMP388 barometric altitude sensor. Code can be found [here](https://github.com/areich128/KalmanFilter).
 
@@ -108,17 +129,15 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
     <img src="filteredAltitude.png" alt="Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance." class="centered-image">
 </div>
 
-*Lag in filtered data was later fixed by increasing process noise variance.*
+<i style="text-align: center;">Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance.</i>
 
 <br>
 
-### Coilgun
+### Coilgun 
 
-Created circuit to launch a small metal projectile using electromagnetic propulsion.
+*2016-2017*
 
-### Marx Generator
-
-Designed and implemented high voltage generator.
+Created circuit to launch a small metal projectile using electromagnetic propulsion. Designed capacitor bank and coil to exert maximum force on the projectile. Learned basics of IC 555 oscillators, full bridge rectifiers, and voltage step-up and step-down methods. Performed theoretical energy transfer analysis to determine areas for improvement to optimise energy transfer.
 
 <br>
 
