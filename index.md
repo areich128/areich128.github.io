@@ -27,7 +27,7 @@
 
 <br>
 
-## Bio <a name="bio"></a>
+## Bio
 
 <hr>
 
@@ -35,7 +35,7 @@ Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical e
 
 <br>
 
-## Education <a name="edu"></a>
+## Education
 
 <hr>
 
@@ -45,7 +45,7 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 <br>
 
-## Experience <a name="exp"></a>
+## Experience
 
 <hr>
 
@@ -65,7 +65,7 @@ Coordinated the design and implementation of an augmented reality EVA assistance
 
 <br>
 
-## Projects <a name="proj"></a>
+## Projects
 
 <hr>
 
@@ -131,7 +131,7 @@ Designed and implemented high voltage generator.
 [Circuit Design Projects](https://areich128.github.io/CircuitDesign/circuitdes.html) -->
 
 
-## Contact <a name="contact" style="text-align: center;"></a>
+## Contact
 
 <hr>
 
