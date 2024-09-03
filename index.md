@@ -50,18 +50,21 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 <hr id="experience">
 
 View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
+<br>
 
 <h3 style="line-height:0">Avionics Lead, CU Sounding Rocket Lab</h3>
 
 *2024 - Present*
 
 Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
+<br>
 
 <h3 style="line-height:0">Avionics Engineer, CU Sounding Rocket Lab</h3>
 
 *2023-2024*
 
 Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
+<br>
 
 <h3 style="line-height:0">NASA SUITS Team Co-Lead (Team Cartographer)</h3>
 
@@ -74,10 +77,11 @@ Team was one of 11 teams nationwide selected to test at Johnson Space Center. Co
 ## Projects
 
 <hr id="projects">
+<br>
 
 <h3 style="line-height:0">Inverted Pendulum Simulation and Control</h3>
 
-*2024*
+<i style="line-height:0">2024</i>
 
 Determined system dynamics equations, created control architecture and algorithm, and tuned using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
 
@@ -95,7 +99,7 @@ Determined system dynamics equations, created control architecture and algorithm
 
 <h3 style="line-height:0">PD Controller for 1-DOF Thrust Vector Control</h3>
 
-*2024*
+<i style="line-height:0">2024</i>
 
 Determined system dynamics and transfer equations, created PD controller and tuned gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo).
 
@@ -110,21 +114,21 @@ Determined system dynamics and transfer equations, created PD controller and tun
 
 <h3 style="line-height:0">5th Kibo Robot Programming Challenge</h3>
 
-*2024*
+<i style="line-height:0">2024</i>
 
 Created pathfinding algorithm to guide the AstroBee robot through a simulated Kibo ISS module while scanning images, avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
 
 <div>
     <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
-<div style="text-align:center>
+<div style="text-align:center">
     <i>AstroBee robot traversing simulated ISS module.</i>
 </div>
 <br>
 
 <h3 style="line-height:0">Kalman Filter</h3>
 
-*2024*
+<i style="line-height:0">2024</i>
 
 Created univariate Kalman filter algorithm based off [this](https://www.kalmanfilter.net/alphabeta.html) tutorial. Applied it to altitude readings made by the BMP388 barometric altitude sensor. Code can be found [here](https://github.com/areich128/KalmanFilter).
 
@@ -138,7 +142,7 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 
 <h3 style="line-height:0">Coilgun</h3>
 
-*2016-2017*
+<i style="line-height:0">2016-2017</i>
 
 Created circuit to launch a small metal projectile using electromagnetic propulsion. Designed capacitor bank and coil to exert maximum force on the projectile. Learned basics of IC 555 oscillators, full bridge rectifiers, and voltage step-up and step-down methods. Performed theoretical energy transfer analysis to determine areas for improvement to optimise energy transfer.
 
