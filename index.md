@@ -1,4 +1,4 @@
-# Project Portfolio (WIP)
+# Project Portfolio
 
 <head>
     <meta charset="UTF-8">
@@ -51,19 +51,19 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 
-### Avionics Lead, CU Sounding Rocket Lab
+<h3 style="line-height:0">Avionics Lead, CU Sounding Rocket Lab</h3>
 
 *2024 - Present*
 
 Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
 
-### Avionics Engineer, CU Sounding Rocket Lab 
+<h3 style="line-height:0">Avionics Engineer, CU Sounding Rocket Lab</h3>
 
 *2023-2024*
 
 Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
 
-### NASA SUITS Team Co-Lead (Team Cartographer) 
+<h3 style="line-height:0">NASA SUITS Team Co-Lead (Team Cartographer)</h3>
 
 *2023-2024*
 
@@ -75,7 +75,7 @@ Team was one of 11 teams nationwide selected to test at Johnson Space Center. Co
 
 <hr id="projects">
 
-### Inverted Pendulum Simulation and Control 
+<h3 style="line-height:0">Inverted Pendulum Simulation and Control</h3>
 
 *2024*
 
@@ -87,11 +87,13 @@ Determined system dynamics equations, created control architecture and algorithm
     </video>
     <img src="MCMC10k_updownfinal.jpg" alt="Gains through tuning process with 10k iterations" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
-<i style="text-align: center;">Left: Video of pendulum swing-up stabilization. Right: Gain set as they are tuned over 10k iterations of te MCMC algorithm.</i>
+<div style="text-align:center">
+    <i>Left: Video of pendulum swing-up stabilization. Right: Gain set as they are tuned over 10k iterations of te MCMC algorithm.</i>
+</div>
 
 <br>
 
-### PD Controller for 1-DOF Thrust Vector Control 
+<h3 style="line-height:0">PD Controller for 1-DOF Thrust Vector Control</h3>
 
 *2024*
 
@@ -101,11 +103,12 @@ Determined system dynamics and transfer equations, created PD controller and tun
     <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
     <img src="W_n.png" alt="Angle of deflection of 'rocket' when run with varying natural frequencies" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
-<i style="text-align: center;">Angle of deflection of 'rocket' when run with varying natural damping ratios and natural frequencies, respectively.</i>
-
+<div style="text-align:center">
+    <i>Angle of deflection of 'rocket' when run with varying natural damping ratios and natural frequencies, respectively.</i>
+</div>
 <br>
 
-### 5th Kibo RPC 
+<h3 style="line-height:0">5th Kibo Robot Programming Challenge</h3>
 
 *2024*
 
@@ -114,12 +117,12 @@ Created pathfinding algorithm to guide the AstroBee robot through a simulated Ki
 <div>
     <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
-
-<i style="text-align: center;">AstroBee robot traversing simulated ISS module.</i>
-
+<div style="text-align:center>
+    <i>AstroBee robot traversing simulated ISS module.</i>
+</div>
 <br>
 
-### Kalman Filter 
+<h3 style="line-height:0">Kalman Filter</h3>
 
 *2024*
 
@@ -128,12 +131,12 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 <div>
     <img src="filteredAltitude.png" alt="Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance." class="centered-image">
 </div>
-
-<i style="text-align: center;">Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance.</i>
-
+<div style="text-align:center">
+    <i>Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance.</i>
+</div>
 <br>
 
-### Coilgun 
+<h3 style="line-height:0">Coilgun</h3>
 
 *2016-2017*
 
