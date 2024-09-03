@@ -49,7 +49,8 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 <hr id="experience">
 
-View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
+View my full resume [here.](Alex_Reich_2024-7_Resume.pdf)
+
 <br>
 
 <h3 style="line-height:0">Avionics Lead, CU Sounding Rocket Lab</h3>
@@ -57,6 +58,7 @@ View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 *2024 - Present*
 
 Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
+
 <br>
 
 <h3 style="line-height:0">Avionics Engineer, CU Sounding Rocket Lab</h3>
@@ -64,6 +66,7 @@ Responsible for organizing the creation of a full avionics system including upda
 *2023-2024*
 
 Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
+
 <br>
 
 <h3 style="line-height:0">NASA SUITS Team Co-Lead (Team Cartographer)</h3>
@@ -77,6 +80,7 @@ Team was one of 11 teams nationwide selected to test at Johnson Space Center. Co
 ## Projects
 
 <hr id="projects">
+
 <br>
 
 <h3 style="line-height:0">Inverted Pendulum Simulation and Control</h3>
@@ -110,6 +114,7 @@ Determined system dynamics and transfer equations, created PD controller and tun
 <div style="text-align:center">
     <i>Angle of deflection of 'rocket' when run with varying natural damping ratios and natural frequencies, respectively.</i>
 </div>
+
 <br>
 
 <h3 style="line-height:0">5th Kibo Robot Programming Challenge</h3>
@@ -124,6 +129,7 @@ Created pathfinding algorithm to guide the AstroBee robot through a simulated Ki
 <div style="text-align:center">
     <i>AstroBee robot traversing simulated ISS module.</i>
 </div>
+
 <br>
 
 <h3 style="line-height:0">Kalman Filter</h3>
@@ -138,6 +144,7 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 <div style="text-align:center">
     <i>Filtered altitude sensing. Lag in filtered data was later fixed by increasing process noise variance.</i>
 </div>
+
 <br>
 
 <h3 style="line-height:0">Coilgun</h3>
