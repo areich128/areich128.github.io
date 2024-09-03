@@ -29,7 +29,7 @@
 
 ## Bio
 
-<hr>
+<hr id="bio">
 
 Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
 
@@ -37,7 +37,7 @@ Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical e
 
 ## Education
 
-<hr>
+<hr id="education">
 
 University of Colorado, Boulder class of 2027
 
@@ -47,7 +47,7 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 ## Experience
 
-<hr>
+<hr id="experience">
 
 View my full resume [here](Alex_Reich_2024-7_Resume.pdf)
 
@@ -67,7 +67,7 @@ Coordinated the design and implementation of an augmented reality EVA assistance
 
 ## Projects
 
-<hr>
+<hr id="projects">
 
 ### Inverted Pendulum Simulation and Control
 
@@ -133,7 +133,7 @@ Designed and implemented high voltage generator.
 
 ## Contact
 
-<hr>
+<hr id="contact">
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 30%; text-align: center;">
