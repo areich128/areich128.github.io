@@ -53,6 +53,8 @@ View my full resume [here.](Alex_Reich_2024-7_Resume.pdf)
 
 <br>
 
+<br>
+
 <h3 style="line-height:0">Avionics Lead, CU Sounding Rocket Lab</h3>
 
 *2024 - Present*
