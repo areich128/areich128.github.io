@@ -53,15 +53,11 @@ View my full resume [here.](Alex_Reich_2024-7_Resume.pdf)
 
 <br>
 
-<br>
-
 <h3 style="line-height:0">Avionics Lead, CU Sounding Rocket Lab</h3>
 
 *2024 - Present*
 
 Responsible for organizing the creation of a full avionics system including updating an existing sensor suite, adding RF downlink capability, and adding pyro channels to meet deployment requirements.
-
-<br>
 
 <br>
 
@@ -73,16 +69,12 @@ Designed and implemented custom sensor drivers and employing low-level serial co
 
 <br>
 
-<br>
-
 
 <h3 style="line-height:0">NASA SUITS Team Co-Lead (Team Cartographer)</h3>
 
 *2023-2024*
 
 Team was one of 11 teams nationwide selected to test at Johnson Space Center. Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
-
-<br>
 
 <br>
 
