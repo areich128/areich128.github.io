@@ -31,7 +31,7 @@
 
 <hr id="bio">
 
-Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, control systems, and GNC algorithms for spacecraft.
+Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, ADCS, and GNC algorithms for spacecraft.
 
 <br>
 
@@ -47,7 +47,7 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 ## Experience
 
-View my full resume [here.](Alex_Reich_2024-7_Resume.pdf)
+View my full resume [here.](Alex_Reich_2024-8_Resume.pdf)
 
 <hr id="experience">
 
@@ -65,7 +65,7 @@ Responsible for organizing the creation of a full avionics system including upda
 
 *2023-2024*
 
-Designed and implemented custom sensor drivers and employing low-level serial communications protocols using NASA's FPrime flight software framework.
+Designed and implemented custom sensor drivers. Employed low-level serial communications protocols using NASA's FPrime flight software framework.
 
 <br>
 
@@ -89,7 +89,7 @@ Lead top nationwide team to test mission solutions at Johnson Space Center. Coor
 
 <i style="line-height:0">2024</i>
 
-Determined system dynamics equations, created control architecture and algorithm, and tuned using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
+Determined system dynamics equations, created control architecture, and tuned control gains using the Markov Chain Monte Carlo method in MATLAB. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/MCMC).
 
 <div>
     <video controls style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
@@ -107,7 +107,7 @@ Determined system dynamics equations, created control architecture and algorithm
 
 <i style="line-height:0">2024</i>
 
-Determined system dynamics and transfer equations, created PD controller and tuned gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo).
+Determined system dynamics and transfer equations, created PD controller and tuned control gains to be able to dictate natural frequency and damping ratio. Code can be found [here](https://github.com/areich128/ControlAlgorithms/tree/master/PD_Algo).
 
 <div>
     <img src="damping.png" alt="Angle of deflection of 'rocket' when run with varying damping ratios" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
@@ -123,7 +123,7 @@ Determined system dynamics and transfer equations, created PD controller and tun
 
 <i style="line-height:0">2024</i>
 
-Created pathfinding algorithm to guide the AstroBee robot through a simulated Kibo ISS module while scanning images, avoiding Keep-Out-Zones and following a near-optimal path. Team was awarded **US Top 10**.
+Created pathfinding algorithm to guide the AstroBee robot through a simulated Kibo ISS module while scanning images, avoiding Keep-Out-Zones and following a near-optimal path. Awarded **US Top 10**.
 
 <div>
     <img src="kibo_traversal.png" alt="AstroBee robot traversing simulated ISS module" style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
