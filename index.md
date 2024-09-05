@@ -74,7 +74,7 @@ Designed and implemented custom sensor drivers and employing low-level serial co
 
 *2023-2024*
 
-Team was one of 11 teams nationwide selected to test at Johnson Space Center. Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
+Lead top nationwide team to test mission solutions at Johnson Space Center. Coordinated the design and implementation of an augmented reality EVA assistance system and associated mission control console. Testing at the Johnson Space Center Rock Yard demonstrated a significant decrease in cognitive load on the "astronaut" during simulated EVA tasks.
 
 <br>
 
@@ -98,7 +98,7 @@ Determined system dynamics equations, created control architecture and algorithm
     <img src="MCMC10k_updownfinal.jpg" alt="Gains through tuning process with 10k iterations" style="width: 45%; height: auto; margin-left: auto; margin-right: auto;">
 </div>
 <div style="text-align:center">
-    <i>Left: Video of pendulum swing-up stabilization. Right: Gain set as they are tuned over 10k iterations of te MCMC algorithm.</i>
+    <i>Left: Video of pendulum swing-up stabilization. Right: Gain set as they are tuned over 10k iterations of MCMC algorithm.</i>
 </div>
 
 <br>
@@ -153,7 +153,7 @@ Created univariate Kalman filter algorithm based off [this](https://www.kalmanfi
 
 <i style="line-height:0">2016-2017</i>
 
-Created circuit to launch a small metal projectile using electromagnetic propulsion. Designed capacitor bank and coil to exert maximum force on the projectile. Learned basics of IC 555 oscillators, full bridge rectifiers, and voltage step-up and step-down methods. Performed theoretical energy transfer analysis to determine areas for improvement to optimise energy transfer.
+Created analog circuit to launch a small metal projectile using electromagnetic propulsion. Designed capacitor bank and coil to exert maximum force on the projectile. Learned basics of IC 555 oscillators, full bridge rectifiers, and voltage step-up and step-down methods. Performed theoretical energy transfer analysis to determine areas for improvement to optimise energy transfer.
 
 <br>
 
