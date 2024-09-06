@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Profile Page</title>
+    <title>Alex Reich Portfolio</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
     <style>
         .social-icons {
@@ -31,7 +31,7 @@
 
 <hr id="bio">
 
-Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, ADCS, and GNC algorithms for spacecraft.
+Hi, I'm Alex! I am a sophomore at CU Boulder studying aerospace and electrical engineering. I am passionate about contributing to the future of space exploration through developing avionics, ADCS, and GNC hardware and software for spacecraft.
 
 <br>
 
@@ -47,7 +47,7 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 ## Experience
 
-View my full resume [here.](Alex_Reich_2024-8_Resume.pdf)
+View my full resume [here.](Alex_Reich_2024-9_Resume.pdf)
 
 <hr id="experience">
 
