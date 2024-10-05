@@ -47,7 +47,7 @@ B.S. Aerospace Engineering, minor in Electrical Engineering
 
 ## Experience
 
-View my full resume [here.](Alex_Reich_2024-9_Resume.pdf)
+View my full resume [here.](Alex_Reich_2024-10_Resume.pdf)
 
 <hr id="experience">
 
